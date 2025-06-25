@@ -1,0 +1,25 @@
+﻿
+body {
+    h1
+
+{
+    color: aqua
+}
+
+p {
+    font-size: medium;
+}
+
+ul {
+    font-size: small;
+}
+
+h2 {
+    color: blue;
+}
+
+.h1val {
+    color: darkorange;
+    font-size: medium;
+}
+}
